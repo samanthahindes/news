@@ -4,6 +4,12 @@
   width: 100%;
   margin-bottom: 20px;
   background-color: #003366;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  border-bottom: 2px solid #eee;
+  padding: 10px 10px 0px 10px;
 }
 
 h1{
@@ -17,9 +23,16 @@ h1{
 
 body{
   background-color: #999;
+  padding-top: 100px;
 }
 
 
 img{
   width: 100%;
 }
+
+
+.box{
+  padding: 10px 20px;
+}
+
