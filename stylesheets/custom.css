@@ -10,10 +10,11 @@
   left: 0px;
   border-bottom: 2px solid #eee;
   padding: 10px 10px 0px 10px;
+  
 }
 
 h1{
-  color: #white
+  color: white;
   font-size: 50px;
   text-align: center;
   font-family: Arial, Verdana, sans-seriff;
@@ -22,7 +23,7 @@ h1{
 }
 
 .box{
-  padding: 10px 5px;
+  padding: 10px 10px;
 }
 
 
