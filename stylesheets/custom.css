@@ -1,6 +1,6 @@
 /*your custom CSS here*/
 .heading{
-  height: 100px;
+  height: 300px;
   width: 100%;
   margin-bottom: 20px;
   background-color: #003366;
@@ -15,7 +15,7 @@
 
 h1{
   color: white;
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
   font-family: Arial, Verdana, sans-seriff;
   width: 100%;
