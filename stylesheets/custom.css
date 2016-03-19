@@ -14,7 +14,7 @@
 }
 
 h1{
-  color: white;
+  color: #ffffff;
   font-size: 30px;
   text-align: center;
   font-family: Arial, Verdana, sans-seriff;
@@ -24,6 +24,7 @@ h1{
 
 .box{
   padding: 20px 0px;
+  background-color: #ffffff;
 }
 
 
