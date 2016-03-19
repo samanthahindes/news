@@ -23,8 +23,9 @@ h1{
 }
 
 .box{
-  padding: 20px 2px;
-  background-color: #ffffff;
+  padding: 10px 0px;
+  background-color: #bfbfbf;
+  border-width: 1px;
 }
 
 
