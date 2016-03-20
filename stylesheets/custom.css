@@ -25,13 +25,14 @@ h1{
 }
 
 .box{
-  width: 27%;
+  width: 25%;
   float: left;
   position: relative;
   top: 50px;
   left: 0px;
-  padding: 10px 20px;
+  padding: 10px 10px;
   background-color: #bfbfbf;
+  margin: 2%;
 }
 
 
