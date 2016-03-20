@@ -25,7 +25,12 @@ h1{
 }
 
 .box{
-  padding: 10px 0px;
+  width: 27%;
+  float: left;
+  position: relative;
+  top: 50px;
+  left: 0px;
+  margin: 2%;
   background-color: #bfbfbf;
 }
 
@@ -45,8 +50,9 @@ body{
   font-family: Arial, Verdana, sans-seriff;
 }
 
-img{
+.box img{
   width: 100%;
+  position: relative;
 }
 
 p{
@@ -62,3 +68,10 @@ p{
   border-top: 1px solid #ccc;
 }
 
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 10px;
+  width: 100%;
+  padding: 0px 20px;
+}
