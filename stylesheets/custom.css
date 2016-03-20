@@ -15,7 +15,7 @@
 
 h1{
   color: #ffffff;
-  font-size: 30px;
+  font-size: 200%;
   text-align: center;
   font-family: Arial, Verdana, sans-seriff;
   width: 100%;
@@ -31,7 +31,7 @@ h1{
 
 
 h2{
-  font-size: 10px;
+  font-size: 150%;
   text-align: center;
   color: #ffffff;
   padding-top: 10px;
@@ -41,7 +41,7 @@ h2{
 body{
   background-color: #999;
   padding: 100px 10px 0px 10px;
-  font-family: "Courier new", Courier, monospace;
+  font-family: Arial, Verdana, sans-seriff;
 }
 
 img{
