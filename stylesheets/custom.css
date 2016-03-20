@@ -28,7 +28,7 @@ h1{
   width: 29%;
   float: left;
   position: relative;
-  top: 50px;
+  top: 30px;
   left: 0px;
   padding: 10px 10px;
   background-color: #bfbfbf;
@@ -49,6 +49,7 @@ body{
   background-color: #999;
   padding: 100px 00px 0px 0px;
   font-family: Arial, Verdana, sans-seriff;
+  font-size: 15px;
 }
 
 .box img{
