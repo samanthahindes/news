@@ -99,6 +99,10 @@ p{
   border-top: 1px solid #ccc;
 }
 
+.box3 img{
+  width: 20%;
+}
+
 .footer {
   position: fixed;
   bottom: 0px;
