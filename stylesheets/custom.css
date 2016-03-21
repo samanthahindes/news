@@ -46,6 +46,17 @@ h1{
   margin: 1%;
 }
 
+.box3{
+  width: 100%;
+  float: left;
+  position: relative;
+  top: 30px;
+  left: 0px;
+  padding: 10px 15px;
+  background-color: #bfbfbf;
+  margin: 1%;
+}
+
 
 h2{
   font-size: 150%;
